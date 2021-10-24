@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawSample</string>
+    <string name="pen">PEN</string>
+    <string name="eraser">ERASER</string>
+</resources>
